@@ -1,4 +1,4 @@
-Full-stack developer and serial builder. I make things work.
+Full-stack developer and serial builder. Wearer of many hats. I make things work.
 
 ### Background
 
