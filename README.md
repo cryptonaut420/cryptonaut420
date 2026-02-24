@@ -3,7 +3,7 @@ Full-stack developer and serial builder. I make things work.
 ### Background
 
 - Full-stack generalist - If you can imagine it, I can build it
-- Crypto infrastructure since 2012, AI-focused since 2019
+- Crypto infrastructure & integrations since 2012, AI-focused since 2019
 - Deep into LLM integrations, agentic workflows, and AI-augmented development
 - Co-founded **Tokenly Inc.** (tokenization before Ethereum) and **All Your Feeds** (AI news aggregation pre-GPT)
 - Business-oriented: startups, freelance, team lead, and running a multi-location VR arcade business
