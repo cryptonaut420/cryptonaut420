@@ -11,13 +11,13 @@ Full-stack developer and serial builder. Wearer of many hats.
 
 ### What I Do
 
-I work at the bleeding edge — taking projects from 0 to 1, building MVPs, scaling infrastructure, and solving any challenge that comes my way.
+I work at the bleeding edge - taking projects from 0 to 1, building MVPs, scaling infrastructure, and solving any challenge that comes my way.
 
 Currently exploring decentralized identity, AI-augmented development, and whatever interesting problem comes next.
 
 ### Tech
 
-TypeScript, React, Node.js, PHP, Python, Go — plus whatever else the problem requires. Databases, infrastructure, web3, the whole stack.
+TypeScript, React, Node.js, PHP, Python, Go - plus whatever else the problem requires. Databases, infrastructure, web3, the whole stack.
 
 ### Work With Me
 
